@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dda35b0-24c6-4774-ac85-5dc8df22ace6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/SignInForm/SignInForm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SignInForm/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/SignIn.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SignIn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SignInForm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SignInForm/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +75,7 @@
       <workItem from="1610885807689" duration="1377000" />
       <workItem from="1610887750335" duration="2522000" />
       <workItem from="1610890974824" duration="750000" />
+      <workItem from="1610893638643" duration="2109000" />
     </task>
     <task id="LOCAL-00001" summary="Setup react router (using docs). No README file">
       <created>1610881679651</created>
@@ -94,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610886054899</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Make HTML for sign in form">
+      <created>1610894049534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610894049534</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setup react router (using docs). No README file" />
     <MESSAGE value="New Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Commit" />
+    <MESSAGE value="Make HTML for sign in form" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make HTML for sign in form" />
   </component>
 </project>
