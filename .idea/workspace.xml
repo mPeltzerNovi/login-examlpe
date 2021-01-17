@@ -2,16 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dda35b0-24c6-4774-ac85-5dc8df22ace6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Pofile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/SignIn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/SignUp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SignInForm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SignInForm/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,12 +33,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mpelt\WebstormProjects\login-example\src\components\SignInForm" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -61,6 +72,10 @@
       <workItem from="1610878744099" duration="4569000" />
       <workItem from="1610884061120" duration="1628000" />
       <workItem from="1610885722864" duration="64000" />
+      <workItem from="1610885807689" duration="1377000" />
+      <workItem from="1610887750335" duration="2522000" />
+      <workItem from="1610890974824" duration="750000" />
+      <workItem from="1610893638643" duration="2835000" />
     </task>
     <task id="LOCAL-00001" summary="Setup react router (using docs). No README file">
       <created>1610881679651</created>
@@ -69,7 +84,28 @@
       <option name="project" value="LOCAL" />
       <updated>1610881679651</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New Commit">
+      <created>1610886054899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610886054899</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Make HTML for sign in form">
+      <created>1610894049534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610894049534</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Register inputfields handleSubmit signup form">
+      <created>1610897989184</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610897989184</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +125,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setup react router (using docs). No README file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setup react router (using docs). No README file" />
+    <MESSAGE value="New Commit" />
+    <MESSAGE value="Make HTML for sign in form" />
+    <MESSAGE value="Register inputfields handleSubmit signup form" />
+    <option name="LAST_COMMIT_MESSAGE" value="Register inputfields handleSubmit signup form" />
   </component>
 </project>
