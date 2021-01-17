@@ -75,7 +75,7 @@
       <workItem from="1610885807689" duration="1377000" />
       <workItem from="1610887750335" duration="2522000" />
       <workItem from="1610890974824" duration="750000" />
-      <workItem from="1610893638643" duration="2109000" />
+      <workItem from="1610893638643" duration="2835000" />
     </task>
     <task id="LOCAL-00001" summary="Setup react router (using docs). No README file">
       <created>1610881679651</created>
@@ -98,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610894049534</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Register inputfields handleSubmit signup form">
+      <created>1610897989184</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610897989184</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +127,7 @@
     <MESSAGE value="Setup react router (using docs). No README file" />
     <MESSAGE value="New Commit" />
     <MESSAGE value="Make HTML for sign in form" />
-    <option name="LAST_COMMIT_MESSAGE" value="Make HTML for sign in form" />
+    <MESSAGE value="Register inputfields handleSubmit signup form" />
+    <option name="LAST_COMMIT_MESSAGE" value="Register inputfields handleSubmit signup form" />
   </component>
 </project>
