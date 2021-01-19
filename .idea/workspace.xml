@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dda35b0-24c6-4774-ac85-5dc8df22ace6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/SignUpForm/SignUpForm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SignUpForm/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/SignUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SignUp.js" afterDir="false" />
-    </list>
+    <list default="true" id="1dda35b0-24c6-4774-ac85-5dc8df22ace6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +75,7 @@
       <workItem from="1610893638643" duration="4784000" />
       <workItem from="1611045570766" duration="194000" />
       <workItem from="1611045802740" duration="875000" />
-      <workItem from="1611046702736" duration="706000" />
+      <workItem from="1611046702736" duration="1304000" />
     </task>
     <task id="LOCAL-00001" summary="Setup react router (using docs). No README file">
       <created>1610881679651</created>
@@ -121,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610899848451</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="De SignUp pagina gemaakt met Email">
+      <created>1611047735023</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611047735023</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +143,7 @@
     <MESSAGE value="Make HTML for sign in form" />
     <MESSAGE value="Register inputfields handleSubmit signup form" />
     <MESSAGE value="Eind commit van het voordoen." />
-    <option name="LAST_COMMIT_MESSAGE" value="Eind commit van het voordoen." />
+    <MESSAGE value="De SignUp pagina gemaakt met Email" />
+    <option name="LAST_COMMIT_MESSAGE" value="De SignUp pagina gemaakt met Email" />
   </component>
 </project>
