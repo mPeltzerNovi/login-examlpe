@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dda35b0-24c6-4774-ac85-5dc8df22ace6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/SignUpForm/SignUpForm.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SignUpForm/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SignInForm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SignInForm/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/SignUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/SignUp.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -75,7 +81,10 @@
       <workItem from="1610885807689" duration="1377000" />
       <workItem from="1610887750335" duration="2522000" />
       <workItem from="1610890974824" duration="750000" />
-      <workItem from="1610893638643" duration="2835000" />
+      <workItem from="1610893638643" duration="4784000" />
+      <workItem from="1611045570766" duration="194000" />
+      <workItem from="1611045802740" duration="875000" />
+      <workItem from="1611046702736" duration="706000" />
     </task>
     <task id="LOCAL-00001" summary="Setup react router (using docs). No README file">
       <created>1610881679651</created>
@@ -105,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610897989184</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Eind commit van het voordoen.">
+      <created>1610899848451</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610899848451</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +144,7 @@
     <MESSAGE value="New Commit" />
     <MESSAGE value="Make HTML for sign in form" />
     <MESSAGE value="Register inputfields handleSubmit signup form" />
-    <option name="LAST_COMMIT_MESSAGE" value="Register inputfields handleSubmit signup form" />
+    <MESSAGE value="Eind commit van het voordoen." />
+    <option name="LAST_COMMIT_MESSAGE" value="Eind commit van het voordoen." />
   </component>
 </project>
